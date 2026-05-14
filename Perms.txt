@@ -1,0 +1,26 @@
+{
+"staffplus": [
+"arianwen27",
+"DaxterDingo",
+"PyxeTheFox",
+"KeatFox"
+],
+"staff": [
+"UserName",
+"UserName",
+"UserName",
+"Username"
+],
+"vipplus": [
+"UserName",
+"UserName",
+"UserName",
+"Username"
+],
+"vip": [
+"UserName",
+"UserName",
+"UserName",
+"Username"
+]
+}

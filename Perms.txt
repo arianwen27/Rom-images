@@ -3,7 +3,8 @@
 "arianwen27",
 "DaxterDingo",
 "PyxeTheFox",
-"KeatFox"
+"KeatFox",
+"Rom Howler"
 ],
 "staff": [
 ],
